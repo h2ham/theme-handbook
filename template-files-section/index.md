@@ -12,4 +12,4 @@ You’ll start with post template files that deal with displaying the Post post 
 
 Note:  It’s important to understand WordPress doesn’t really break down template files down into specific types of template files such as post template files or attachment template files. Especially since many template files, such as index.php or search.php can display many different post types. To help you reference specific template files this handbook is categorizing them based on the post types they can display.
 
-Note: 
+Note: WordPress が実際にテンプレートファイルを、投稿テンプレートファイルや添付ファイルテンプレートファイルなど、特定の投稿タイプごとに切り分けてしまうわけではないことを理解することは重要です。 特に index.php や search.php のような多くのテンプレートファイルは、多くの異なる投稿タイプを表示できるからです。 このハンドブックでは、探したいテンプレートファイルを参照できるように、表示できる投稿タイプに基づいてテンプレートを分類しています。
