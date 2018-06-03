@@ -1,7 +1,7 @@
-# References
+# リファレンス
 
-This section contains lists of Template Tags and Conditional Tags.
+このセクションには、テンプレートタグと条件付きタグのリストが含まれています。
 
-Template Tags are used in your Template Files to display information dynamically or otherwise customize your site.
+テンプレート・タグは、動的に情報を表示したり、サイトをカスタマイズしたりするために、テンプレート・ファイルで使用されます。
 
-Conditional Tags are a boolean data type that can be used in your Template Files to alter the display of content depending on the conditions that the current page matches.
+条件付きタグは、テンプレートファイルで現在のページが一致する条件に応じてコンテンツの表示を変更するために使用できるブール型のデータ型です。
